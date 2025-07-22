@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/language-masters/placeholders:/language-masters/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/language-masters/en/placeholders.json",
-    "/content/wknd-universal/language-masters/en/placeholders:/en/placeholders.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/McKinseyDemo/language-masters/en/:/",
+    "/content/McKinseyDemo/configuration:/.helix/config.json",
+    "/content/McKinseyDemo/metadata:/metadata.json",
+    "/content/McKinseyDemo/redirects:/redirects.json",
+    "/content/McKinseyDemo/language-masters/placeholders:/language-masters/placeholders.json",
+    "/content/McKinseyDemo/language-masters/en/placeholders:/language-masters/en/placeholders.json",
+    "/content/McKinseyDemo/language-masters/en/placeholders:/en/placeholders.json",
+    "/content/McKinseyDemo/placeholders:/placeholders.json",
+    "/content/McKinseyDemo.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/"
+    "/content/McKinseyDemo/"
   ]
 }
